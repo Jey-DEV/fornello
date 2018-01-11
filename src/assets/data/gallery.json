@@ -1,0 +1,98 @@
+[
+{
+"title": "Cabernet Sauvignon",
+"url": "menu01.webp",
+"width": 300,
+"height": 450,
+"desc": "This beautiful cherry colored wine is smooth, medium bodied with a mellow berry aroma.",
+"link": ""
+},
+{
+"title": "Antipasti",
+"url": "menu02.webp",
+"width": 450,
+"height": 300,
+"desc": "Mixed antipasti pickled blue cheese, olives and mozzarella served on cast-iron board over wooden table with vintage fork.",
+"link": ""
+},
+{
+"title": "Pesto in a Bowl",
+"url": "menu08.webp",
+"width": 300,
+"height": 450,
+"desc": "Raw Organic Green Pesto",
+"link": ""
+},
+{
+"title": "Mini Pizza",
+"url": "menu07.webp",
+"width": 300,
+"height": 450,
+"desc": "Mini Pizza with Mozzarella and Tomato.",
+"link": ""
+},
+{
+"title": "Prosciutto Wrapped Asparagus",
+"url": "menu03.webp",
+"width": 300,
+"height": 450,
+"desc": "Prosciutto Wrapped Asparagus with Salt and Pepper.",
+"link": ""
+},
+{
+"title": "Stuffed Ricotta and Spinach Manicotti",
+"url": "menu09.webp",
+"width": 300,
+"height": 450,
+"desc": "Stuffed Ricotta and Spinach Manicotti with Basil.",
+"link": ""
+},
+{
+"title": "Caprese Salad",
+"url": "menu05.webp",
+"width": 600,
+"height": 400,
+"desc": "Healthy Caprese Salad with Tomato Mozzarella and Basil.",
+"link": ""
+},
+{
+"title": "Baked Chicken Vasuvio",
+"url": "menu04.webp",
+"width": 300,
+"height": 450,
+"desc": "Baked Chicken Vesuvio with Peas and Potatoes.",
+"link": ""
+},
+{
+"title": "Pizza Rossa",
+"url": "menu06.webp",
+"width": 450,
+"height": 300,
+"desc": "Pepperoni, Tomato, Jalapeno, Basil, Mozzarella",
+"link": ""
+},
+{
+"title": "Pasta Spaghetti with Meatballs",
+"url": "menu10.webp",
+"width": 316,
+"height": 450,
+"desc": "Italian Pasta Spaghetti with Tomato sauce, Parmesan cheese, fresh Basil and Tomatoes",
+"link": ""
+},
+{
+"title": "Pizza!",
+"url": "menu11.webp",
+"width": 675,
+"height": 450,
+"desc": "Every pizza is a personal pizza. If you try hard and believe in yourself...",
+"link": ""
+},
+{
+"title": "",
+"url": "",
+"width": 1000,
+"height": 1,
+"desc": "",
+"link": ""
+}
+]

@@ -1,0 +1,12 @@
+<section *ngIf="images" class="gallery">
+<ng-template ngFor let-img [ngForOf]="images"; let-i = index>
+<div class="img-container" [ngStyle]="{'width':img.width*280/img.height+'px','flex-grow':img.width*280/img.height}">
+  <img src="../../../assets/images/{{img.url}}" alt="">
+  <div class="mask"></div>
+  <div class="content">
+    <<h2>{{img.title}}</h2>
+    <p>&ldquo;{{img.desc}}&rdquo;</p>
+  </div>
+</div>
+</ng-template>
+</section>
