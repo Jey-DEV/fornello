@@ -8,11 +8,13 @@ section::after {
   flex-grow: 999999999;
 }
 
-img {
-  position: absolute;
+.img-container img {
   top: 0;
   width: 100%;
   vertical-align: bottom;
+  display: block;
+  position: relative;
+  transition: all 0.2s linear;
 }
 
 .img-container {
@@ -24,17 +26,12 @@ img {
   cursor: default;
 }
 
-.img-container .mask, .img-container .content {
+.img-container .mask,
+.img-container .content {
   position: absolute;
   width: 100%;
   top: 0;
   left: 0
-}
-
-.img-container img {
-  display: block;
-  position: relative;
-  transition: all 0.2s linear;
 }
 
 .img-container:hover img { transform: scale(1.1); }
@@ -81,3 +78,8 @@ img {
 }
 
 .img-container:hover .mask { opacity: 1; }
+
+.img-container-end {
+  width: 100%;
+  height: 1px;
+}
