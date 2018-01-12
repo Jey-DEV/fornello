@@ -2,25 +2,25 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+
 body {
   margin: 0;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
 
-
-a, button {
+a,
+button {
   color: inherit;
   transition: .3s;
 }
-a {
-  text-decoration: none;
-}
+a { text-decoration: none; }
 
 button {
   overflow: visible;
   border: 0;
-  font: inherit; cursor: pointer;
+  font: inherit;
+  cursor: pointer;
   -webkit-font-smoothing: inherit;
   letter-spacing: inherit;
   background: none;
@@ -30,9 +30,5 @@ button {
   padding: 0;
   border: 0;
 }
-:focus {
-  outline: 0;
-}
-img {
-  border: 0;
-}
+:focus { outline: 0; }
+img { border: 0; }
